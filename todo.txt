@@ -1,0 +1,13 @@
+[x] - Create Contact Class
+    [x] - Validation for contact information
+[x] - Create PhoneBook Class
+    [x] - Display list of contacts
+    [x] - Function to create new contacts
+    [x] - Function to create new contacts from a CSV file
+    [x] - Update existing contacts
+    [x] - Delete contacts individually or in a batch
+    [x] - Search for contacts based on partial name and phone numbers
+    [x] - Filter contacts added within a specific time frame
+    [x] - Sort and group contacts based on alphabetic sorting or grouping based on first name or last name
+[x] - Create an audit log - recording all operations performed in the app with timestamps
+    [x] - view history of changes made to individual contacts
